@@ -25,10 +25,10 @@ export default {
 				'1fr2fr': '1fr, 2fr'
 			},
 			backgroundImage: {
-				'short-mobile': "url('../../images/bg-shorten-mobile.svg')",
-				'short-desktop': "url('../../images/bg-shorten-desktop.svg')",
-				'boost-mobile': "url('../../images/bg-boost-mobile.svg')",
-				'boost-desktop': "url('../../images/bg-boost-desktop.svg')",
+				'short-mobile': "url('../images/bg-shorten-mobile.svg')",
+				'short-desktop': "url('../images/bg-shorten-desktop.svg')",
+				'boost-mobile': "url('../images/bg-boost-mobile.svg')",
+				'boost-desktop': "url('../images/bg-boost-desktop.svg')",
 			}
 		},
 	},
